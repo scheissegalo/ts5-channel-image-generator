@@ -9,7 +9,7 @@ export const CHANNEL_HEIGHT = 16;
 //export const CHANNEL_BANNER_HEIGHT = 30;
 export const CHANNEL_BANNER_HEIGHT = 20;
 export const CHANNEL_BANNER_WIDTH = 500;
-export const CHANNEL_DEPTH_OFFSET = 11;
+export const CHANNEL_DEPTH_OFFSET = 4;
 
 export const defaultRoom = {depth: 0, spacer: false};
 
